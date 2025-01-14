@@ -1,4 +1,4 @@
-## This project was done as a final project where we had to find a dataset, ask questions and solve them using R. 
+# Calgary Census Data Analysis Using R
 
 ```
 ##install.packages##
