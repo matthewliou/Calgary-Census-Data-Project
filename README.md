@@ -1,3 +1,5 @@
+## This project was done as a final project where we had to find a dataset, ask questions and solve them using R. 
+
 ```
 ##install.packages##
 
